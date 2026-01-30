@@ -1,0 +1,17 @@
+# CMG STARS output files (do NOT commit)
+*.sr3
+*.sr3idx
+*.out
+*.irf
+*.mrf
+*.rst
+*.rwd
+*.log
+
+# Restart / temporary
+*.tmp
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
